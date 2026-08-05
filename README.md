@@ -84,8 +84,7 @@ Pizza-Sales-Analysis/
 ├── Pizza Sales Dataset.xlsx
 ├── Overview.png
 ├── Top & Bottom Pizzas.png
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
