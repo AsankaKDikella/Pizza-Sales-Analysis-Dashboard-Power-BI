@@ -1,9 +1,15 @@
-# Pizza-Sales-Analysis-Dashboard-Power-BI
+# 🍕 Pizza Sales Analysis Dashboard | Power BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/Data-SQL-blue)
+![Excel](https://img.shields.io/badge/Data-Excel-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+## 📌 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of pizza sales performance using interactive visualizations. It helps business users understand sales trends, customer ordering behavior, product performance, and key business metrics to support data-driven decision-making.
 
 ---
-
 # 📊 Dashboard Preview
 
 ## 🏠 Overview Dashboard
