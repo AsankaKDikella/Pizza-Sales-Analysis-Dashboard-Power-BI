@@ -1,9 +1,9 @@
 # 🍕 Pizza Sales Analysis Dashboard | Power BI
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/Data-SQL-blue)
-![Excel](https://img.shields.io/badge/Data-Excel-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-success)
+![Excel](https://img.shields.io/badge/Excel-Data_Source-217346?logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data_Preparation-4479A1?logo=mysql&logoColor=white)
 
 ## 📌 Project Overview
 
