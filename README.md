@@ -142,11 +142,11 @@ Pizza-Sales-Analysis/
 
 ---
 
-# 📬 Connect With Me
+## 📬 Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/your-linkedin/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asanka%20K%20Dikella-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asanka-k-dikella-18671b281/)
 
-**GitHub:** https://github.com/your-username
+[![GitHub](https://img.shields.io/badge/GitHub-AsankaKDikella-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsankaKDikella)
 
 ---
 
